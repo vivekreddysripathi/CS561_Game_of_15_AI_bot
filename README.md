@@ -1,4 +1,4 @@
-# CS591_Game_of_15_AI_bot
+# CS561_Game_of_15_AI_bot
 
 <img width="1078" alt="Screenshot 2023-03-06 at 3 50 59 PM" src="https://user-images.githubusercontent.com/98629420/223243256-6fdd7e41-7eae-438c-8649-064ba8e5c9a2.png">
 
