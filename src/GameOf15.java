@@ -571,6 +571,17 @@ public class GameOf15 {
         System.out.println("              You Human Lost!               ");
         System.out.println("|                                          |");
         System.out.println("--------------------------------------------");
+        askRematch();
+    }
+    
+    // Check if user wants to play another game
+    
+    private void askRematch(){
+        System.out.print("Enter 1 to play again, 0 to terminate: ");
+        int x= sc.nextInt();
+        if(x==1) {
+            startGame();
+        }
     }
 
     // initiate the game
