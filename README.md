@@ -22,3 +22,4 @@ Instructions to play the game using AI:
 6. Suppose AI is playing odd and returned you 0 9 0 0 0 0 0 0 0, now it is you turn which is even. You might choose 4 at position right bottom. So give the input for the next round as 0 9 0 0 0 0 0 0 4
 7. Play until the game ends.
 8. You can play the game at any stage of the board. Give the input accordingly and AI will choose to play even or odd according the given input.
+9. Look at images folders. User input is shown in Green colour. It is mandatory for the user to provide the AI with an input first.
