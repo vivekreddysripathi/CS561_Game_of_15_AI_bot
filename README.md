@@ -11,3 +11,12 @@
 <img width="991" alt="Screenshot 2023-03-06 at 3 58 39 PM" src="https://user-images.githubusercontent.com/98629420/223244906-b6097faf-ab0f-4fbd-86b1-86703c8fad73.png">
 
 <img width="998" alt="Screenshot 2023-03-06 at 3 59 04 PM" src="https://user-images.githubusercontent.com/98629420/223244952-ac4c37a8-61d5-4403-bbaa-7db7f97b4bfe.png">
+
+
+Instructions to play the game using AI:
+1. Run the Main class.
+2. AI will ask for input.
+3. You can choose either odd or even. If you choose odd choose your number and position and give input as 0 0 0 9 0 0 0 0 0 if you choose 9 at position left center. And you will be fetched with an even number at some position by the AI.
+4. If you choose even then give input as 0 0 0 0 0 0 0 0 0. It will automatically provide you with an odd number at certain position. Remember, as this is the very first step, extremely high number of computations will be made so it will take approx 3 min for the result.
+5. You will be prompted to give your next choice. Now take the output given byt AI in the last round, choose you number and position, add it to the previous output and now give this combination as input for the next round.
+6. Play until the game ends.
