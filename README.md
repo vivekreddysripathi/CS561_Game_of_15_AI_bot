@@ -19,4 +19,5 @@ Instructions to play the game using AI:
 3. You can choose either odd or even. If you choose odd choose your number and position and give input as 0 0 0 9 0 0 0 0 0 if you choose 9 at position left center. And you will be fetched with an even number at some position by the AI.
 4. If you choose even then give input as 0 0 0 0 0 0 0 0 0. It will automatically provide you with an odd number at certain position. Remember, as this is the very first step, extremely high number of computations will be made so it will take approx 3 min for the result.
 5. You will be prompted to give your next choice. Now take the output given byt AI in the last round, choose you number and position, add it to the previous output and now give this combination as input for the next round.
-6. Play until the game ends.
+6. Suppose AI is playing odd and returned you 0 9 0 0 0 0 0 0 0, now it is you turn which is even. You might choose 4 at position right bottom. So give the input for the next round as 0 9 0 0 0 0 0 0 4
+7. Play until the game ends.
